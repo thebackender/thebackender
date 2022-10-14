@@ -19,10 +19,10 @@ My main languages are C, Rust, Golang, and OCaml.
 ## :trophy: My Github stats:
 <div>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css,scss&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMKanat&hide=html,css,scss&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thebackender&hide=html,css,scss&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebackender&hide=html,css,scss&theme=tokyonight" />
 </a>
-  <a href="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&count_private=true">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GMKanat&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&hide_rank=true" />
+  <a href="https://github-readme-stats.vercel.app/api?username=thebackender&count_private=true&show_icons=true&theme=tokyonight&count_private=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=thebackender&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&hide_rank=true" />
 </a>
 </div>
