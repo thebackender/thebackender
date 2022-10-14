@@ -6,7 +6,7 @@
 **Programming Journey**:
 | **Time** | **Description** |
 |-|-|
-| January 2018 | HTML & CSS |
+| January 2018 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 | January 2019 | ![JavaScript](https://img.shields.io/badge/-JavaScript-%23e9d54c?logo=javascript&logoColor=white&style=flat-square)  by learn.javascript.ru |
 | Q4 2022 |  |
 | Q1 2023 | - |
