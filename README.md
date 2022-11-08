@@ -26,7 +26,6 @@
 | June 2022 | ssh, VPS |
 | July 2022 | OSI model |
 | September 2022 | Depressed from Programming |
-| October 2022 | Starting from zero with right roadmap |
 
 ## :trophy: My Github stats:
 <div>
