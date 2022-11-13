@@ -27,6 +27,11 @@
 | July 2022 | OSI model |
 | September 2022 | Depressed from Programming |
 
+**Programming Journey v2.0**:
+| **Time** | **Description** | ** Link ** |
+|-|-|-|
+| 13 November 2022 - ??? | CS50 2021 Harvard Lectures | <a href="https://cs50.harvard.edu/x/2022/">link</a> |
+
 ## :trophy: My Github stats:
 <div>
 
