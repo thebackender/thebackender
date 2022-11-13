@@ -29,7 +29,7 @@
 
 **Programming Journey v2.0**:
 | **Time** | **Description** | **Link** | **Progress** |
-|-|-|-|
+|-|-|-|-|
 | 13 November 2022 - ??? | CS50 2021 Harvard Lectures | <a href="https://cs50.harvard.edu/x/2022/">link</a> | <del>L0(Scratch)</del> |
 
 ## :trophy: My Github stats:
