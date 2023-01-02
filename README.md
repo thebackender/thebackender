@@ -32,7 +32,7 @@
 |-|-|-|-|
 | 13 November 2022 - ??? | CS50 2021 Harvard Lectures | <a href="https://cs50.harvard.edu/x/2022/">link</a> | <del>L0(Scratch), L1(C), L2(Arrays), L3(Algorithms without last problem), L4(only lecture)</del> |
 | 17 December 2022 | Youtube-get-subscriptions-new-videos | <a href="https://github.com/thebackender/Youtube-get-subscriptions-new-videos">link</a> | - |
-| 02 January 2023 | Wargames Bandit | <a href="https://overthewire.org/wargames/bandit/"></a> | Level 0-2 |
+| 02 January 2023 | Wargames Bandit | <a href="https://overthewire.org/wargames/bandit/">link</a> | Level 0-2 |
 
 ## :trophy: My Github stats:
 <div>
